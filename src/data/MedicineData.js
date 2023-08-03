@@ -1,0 +1,3 @@
+const MedicineData = [];
+
+export { MedicineData };
